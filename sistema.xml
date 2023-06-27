@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Alumnos: Bazan Lopez Cinthia Elizabeth - Rodriguez Guevara Ruben Dali --><sistema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:/C:/Users/Toshiba/Desktop/Trimestre%2023%20-%20Invierno/Integracion%20de%20sistemas/Proyecto/ProyectoIS/src/proyectois/sistemas.xsd">
+                                       
+
+    
+    
+    
+    
+    
+    
+    
+    
+    <clientes>
+                        
+        
+        
+                                    
+        
+        
+        
+                    
+        
+        
+        
+                    
+        
+        <cliente id="1200">
+                        
+            <nombrecompleto>Alonso Reyes Espinosa</nombrecompleto>
+                        
+            <edad>22</edad>
+                        
+            <numero>5561734556</numero>
+                        
+            <categoria>Avanzado</categoria>
+                        
+            <precio>A: $799</precio>
+                        
+            <dias>Martes y Jueves</dias>
+                        
+            <horas>11:00 a 14:00</horas>
+                        
+            <profesor>Alejandra Velazquez Quiroga</profesor>
+                    
+        </cliente>
+            
+        <cliente id="1200">
+            <nombrecompleto>uben Dali Rodriguez Guevara</nombrecompleto>
+            <edad>23</edad>
+            <numero>5578906534</numero>
+            <categoria>Intermedio</categoria>
+            <precio>I: $560</precio>
+            <dias>Martes y Jueves</dias>
+            <horas>11:00 a 14:00</horas>
+            <profesor>Javier Lopez Hernandez</profesor>
+        </cliente>
+    </clientes>
+                            
+
+
+
+
+
+
+</sistema>
